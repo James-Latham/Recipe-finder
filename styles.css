@@ -1,0 +1,16 @@
+body {
+    color: black;
+    background-color: white;
+    margin-left: 200px;
+}
+.centre{
+    color: black;
+    background-color: lightgray;
+    margin-left: auto;
+}
+.sidebar{
+    position: fixed;
+    text-align: left;
+    background-color: lightblue;
+    width: 190px;
+}
