@@ -1,16 +1,17 @@
 body {
-    color: black;
-    background-color: white;
+    color: #1b2432;
+    background-color: #aaadc4;
     margin-left: 200px;
 }
 .centre{
-    color: black;
-    background-color: lightgray;
+    color: #1b2432;
+    background-color: #9b9ece;
     margin-left: auto;
 }
 .sidebar{
     position: fixed;
     text-align: left;
-    background-color: lightblue;
+    background-color: #9b9ece;
+    color: #1b2432;
     width: 190px;
 }
